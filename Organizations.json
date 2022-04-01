@@ -1,0 +1,18 @@
+{
+  "id": 673750765,
+  "name": "Super organization",
+  "coordinates": {
+    "x": 1.0,
+    "y": 2.0
+  },
+  "creationDate": {
+    "year": 2022,
+    "month": 3,
+    "day": 18
+  },
+  "annualTurnover": 100,
+  "type": "PUBLIC",
+  "postalAddress": {
+    "zipCode": "345654"
+  }
+}
